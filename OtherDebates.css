@@ -67,10 +67,35 @@
     height: 42px;
 }
 
-.temporary {
+.titulo {
     display: flex;
     justify-content: center;
-    margin-top: 35vh;
+    font-size: 40px;
+    margin-top: 130px;
+}
+
+.caja {
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 7vh;
+    border: 5px solid lightgray;
+}
+
+.topcaja {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
     font-size: xx-large;
-    
+}
+
+.MessivsRonaldo {
+    display: flex;
+    justify-content: center;
+    margin-top: 4vh;
+}
+
+.DiMariaunderrated {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
 }
