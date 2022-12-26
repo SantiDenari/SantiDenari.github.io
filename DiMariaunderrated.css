@@ -1,0 +1,138 @@
+.topbar {
+    background-color: white;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    border-bottom: 5px solid lightgrey;
+    position: fixed;
+}
+
+.fondo {
+    background-color: white;
+}
+
+.bigtitle {
+    display:inline-flex;
+}
+
+.topleft {
+    font-size: xx-large;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 18px;
+}
+
+.line {
+    display: flex;
+    justify-content: flex-start;
+    border-left: 5px solid lightgrey;
+    margin-left: 10px;
+    height: 80px;
+}
+
+.OtherDebates {
+    margin-left: 68vw;
+    margin-right: 25px;
+    margin-top: 25px;
+    font-size: x-large;
+    text-decoration: none;
+    
+}
+
+.OtherDebates:link {
+    text-decoration: none;
+}
+
+.OtherDebates:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.OtherDebates:active {
+    background-color: lightslategray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.AboutMe {
+    font-size: x-large;
+    margin-top: 25px;
+   
+}
+
+.AboutMe:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.AboutMe:active {
+    background-color: lightslategray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.smalltitle {
+    font-size: 40px;
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+.instrucciones {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.everything {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/*por las dudas*/
+.arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 25px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 30px;
+  }
+
+.flechi {
+    width: 0; 
+    height: 0; 
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 25px solid black;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 35%;
+    margin-top: 25px;   
+}
+
+.primerap {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 16%;
+    margin-right: 40%;
+    font-size: 25px;
+}
+
+.grande {
+    font-size: 25px;
+}
+
+.chico {
+    font-size: 18px;
+}
+
