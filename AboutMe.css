@@ -30,6 +30,24 @@
     height: 80px;
 }
 
+.featured {
+    margin-left: 61vw;
+    margin-top: 25px;
+    font-size: x-large;
+}
+
+.featured:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.featured:active {
+    background-color: lightslategray;
+    border-radius: 5px;
+    height: 42px;
+}
+
 .OtherDebates {
     margin-left: 68vw;
     margin-right: 25px;
