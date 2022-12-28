@@ -1,0 +1,135 @@
+.topbar {
+    background-color: white;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    border-bottom: 5px solid lightgrey;
+    position: fixed;
+}
+
+.fondo {
+    background-color: white;
+}
+
+.bigtitle {
+    display: inline-flex;
+}
+
+.topleft {
+    font-size: xx-large;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 18px;
+}
+
+.line {
+    display: flex;
+    justify-content: flex-start;
+    border-left: 5px solid lightgrey;
+    margin-left: 1vw;
+    height: 80px;
+}
+
+.featured {
+    margin-left: 61vw;
+    margin-top: 25px;
+    font-size: x-large;
+}
+
+.featured:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.featured:active {
+    background-color: lightslategray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.OtherDebates {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    font-size: x-large;
+}
+
+.OtherDebates:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.OtherDebates:active {
+    background-color: lightslategray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.AboutMe {
+    font-size: x-large;
+    margin-top: 25px;
+   
+}
+
+.AboutMe:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.AboutMe:active {
+    background-color: lightslategray;
+    border-radius: 5px;
+    height: 42px;
+}
+
+.opcion {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: xx-large;
+}
+
+.paso {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: large;
+}
+
+.f1 {
+    background-color: lightgray;
+}
+
+.today {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.nombre {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: medium;
+}
+
+.primerap {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 16%;
+    margin-right: 40%;
+    font-size: large;
+}
+
+.grande {
+    font-size: large;
+}
+
+.chico {
+    font-size: medium;
+}
