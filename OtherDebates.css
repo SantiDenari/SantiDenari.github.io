@@ -123,3 +123,9 @@
     justify-content: center;
     margin-top: 15px;
 }
+
+.best10 {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
