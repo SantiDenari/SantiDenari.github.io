@@ -103,6 +103,15 @@
     background-color: lightgray;
 }
 
+.f2 {
+    margin-top: 2vh;
+}
+
+.f3 {
+    background-color: lightgray;
+    margin-top: 2vh;
+}
+
 .today {
     display: flex;
     justify-content: center;
